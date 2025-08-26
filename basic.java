@@ -9,8 +9,6 @@ public class basic {
         System.out.print("Enter the range: ");
         int n=sc.nextInt();
         EvenOdd(n);
-
-
         }
 
     public static void EvenOdd(int n){
@@ -27,6 +25,7 @@ public class basic {
             if(i%2!=0){
                System.out.print(i+" ");
             }
+            
         }
         System.out.println();
 
