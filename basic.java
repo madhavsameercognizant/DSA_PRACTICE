@@ -10,6 +10,7 @@ public class basic {
         int n=sc.nextInt();
         EvenOdd(n);
         }
+        
 
     public static void EvenOdd(int n){
         System.out.println("Even numbers are: ");
